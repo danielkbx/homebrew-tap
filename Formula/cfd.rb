@@ -1,9 +1,9 @@
 class Cfd < Formula
   desc "CLI tool for Clockify time tracking"
   homepage "https://github.com/danielkbx/clockifyd"
-  url "https://github.com/danielkbx/clockifyd/archive/refs/tags/v1.1.0.tar.gz"
-  sha256 "88de29a3e488a6bc451bf10a95aa955208afef726acbb970fe18b3b85c59f10a"
-  version "1.1.0"
+  url "https://github.com/danielkbx/clockifyd/archive/refs/tags/v1.2.0.tar.gz"
+  sha256 "b1e078240e4b16aca023882b9d931309f7a66a0261a3c3745a0d1e75b8909d48"
+  version "1.2.0"
   license "GPL-3.0-only"
 
   depends_on "rust" => :build
