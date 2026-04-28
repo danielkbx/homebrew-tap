@@ -1,9 +1,9 @@
 class Ytd < Formula
   desc "CLI tool for reading and editing YouTrack tickets and knowledge base articles"
   homepage "https://github.com/danielkbx/youtrackd"
-  url "https://github.com/danielkbx/youtrackd/archive/refs/tags/v1.5.0.tar.gz"
-  sha256 "b7eb62c993c087c443c79611aa5c602597f3b4716db8c812cfc19a3a80065b3b"
-  version "1.5.0"
+  url "https://github.com/danielkbx/youtrackd/archive/refs/tags/v1.6.0.tar.gz"
+  sha256 "dcba9832d80be02883c9c7e6eb6142edffae0c77c58b0d259454d8df1a481395"
+  version "1.6.0"
   license "GPL-3.0-only"
 
   depends_on "rust" => :build
